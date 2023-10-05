@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaksymilianOE
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Javs & JS
+- 🌱 I’m currently learning Javsa & JavaScript
 
 <!---
 MaksymilianOE/MaksymilianOE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
